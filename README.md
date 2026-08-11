@@ -11,7 +11,7 @@
 
 ## Professional Snapshot
 
-I am a Senior DevOps Cloud Automation Engineer focused on building reliable cloud platforms, repeatable infrastructure, and deployment workflows that help engineering teams move faster with less operational risk. My work spans AWS, Kubernetes, Terraform, CI/CD, observability, Linux automation, and secure platform operations.
+I am a Senior DevOps Cloud Automation Engineer focused on building reliable cloud platforms, repeatable infrastructure, and deployment workflows that help engineering teams move faster with less operational risk. My work spans AWS, Kubernetes, Red Hat OpenShift, Terraform, Ansible Automation Platform, CI/CD, observability, Linux automation, and secure platform operations.
 
 I have supported enterprise environments where infrastructure consistency, incident response, release reliability, and documentation matter every day. I enjoy turning manual operational work into reusable automation, improving pipeline quality, and helping teams run cloud-hosted systems with better visibility and control.
 
@@ -25,7 +25,7 @@ I have supported enterprise environments where infrastructure consistency, incid
     </td>
     <td width="50%">
       <h3>Platform Engineering</h3>
-      <p>Reusable Terraform modules, self-service tooling, internal platform services, developer enablement, GitOps workflows.</p>
+      <p>Reusable Terraform modules, Ansible automation patterns, self-service tooling, internal platform services, developer enablement, GitOps workflows.</p>
     </td>
   </tr>
   <tr>
@@ -38,6 +38,16 @@ I have supported enterprise environments where infrastructure consistency, incid
       <p>Prometheus, Grafana, ELK, AppDynamics, dashboards, alerts, incident response, production troubleshooting, RCA.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>Enterprise Automation</h3>
+      <p>Red Hat Ansible Automation Platform, AAP architecture, execution environments, collections, modules, roles, inventories, and playbooks.</p>
+    </td>
+    <td width="50%">
+      <h3>Hybrid Platform Operations</h3>
+      <p>Red Hat OpenShift, Kubernetes platform services, Linux automation, RBAC, secrets, and standardized operational workflows.</p>
+    </td>
+  </tr>
 </table>
 
 ## Technology Stack
@@ -48,12 +58,16 @@ I have supported enterprise environments where infrastructure consistency, incid
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Red Hat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 
 ### Infrastructure, Automation, and Delivery
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
+![AAP](https://img.shields.io/badge/Ansible%20Automation%20Platform-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -76,6 +90,8 @@ I have supported enterprise environments where infrastructure consistency, incid
 ## Profile Focus
 
 - Cloud infrastructure automation with Terraform, Kubernetes, and AWS.
+- Red Hat automation with Ansible Automation Platform, execution environments, collections, modules, roles, inventories, and playbooks.
+- OpenShift and Kubernetes platform operations for containerized workloads and hybrid infrastructure patterns.
 - CI/CD engineering for repeatable builds, deployments, promotions, and rollback-ready releases.
 - Platform enablement through reusable modules, templates, runbooks, and self-service workflows.
 - Reliability engineering with practical monitoring, dashboards, alerts, troubleshooting, and RCA habits.
@@ -94,6 +110,8 @@ Bachelor of Technology
 ## Current Focus
 
 - Building reusable cloud infrastructure patterns with Terraform and Kubernetes.
+- Designing AAP automation flows from execution environments and collections through modules, roles, inventories, and playbooks.
+- Supporting Red Hat OpenShift and Kubernetes platform operations.
 - Improving CI/CD reliability, release automation, and rollback readiness.
 - Strengthening observability, incident response, and production troubleshooting workflows.
 - Creating practical platform documentation, onboarding guides, and automation templates.
