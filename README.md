@@ -73,55 +73,13 @@ I have supported enterprise environments where infrastructure consistency, incid
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Experience Highlights
+## Profile Focus
 
-### Sr. DevOps Cloud Automation Engineer
-
-**HealthPartners, Remote, US**  
-**Mar 2024 - Present**
-
-- Design and support cloud automation workflows for infrastructure provisioning, application deployment, and platform operations.
-- Build Terraform-based infrastructure patterns for repeatable AWS provisioning and environment standardization.
-- Support Kubernetes workloads by troubleshooting deployments, scaling behavior, service connectivity, configuration issues, and runtime failures.
-- Improve CI/CD pipelines across GitLab CI/CD, GitHub Actions, Jenkins, and Azure DevOps.
-- Partner with application teams to containerize workloads and define deployment workflows for cloud-hosted services.
-- Configure observability with CloudWatch, Prometheus, Grafana, ELK, and AppDynamics.
-- Create runbooks, operational guides, and onboarding documentation for cloud services and support workflows.
-- Support incident triage and RCA through logs, metrics, alerts, pipeline history, and infrastructure state review.
-- Standardize secure secrets usage with HashiCorp Vault, CyberArk, RBAC, and least-privilege patterns.
-- Use ServiceNow, JIRA, and Rally to track operational work, change activity, incidents, and delivery progress.
-- Collaborate with engineering, infrastructure, security, and support teams to reduce recurring operational issues.
-- Improve platform enablement through reusable templates, automation opportunities, and reduced manual infrastructure tasks.
-
-### Cloud and Automation Engineer
-
-**LTI - Larsen & Toubro Infotech, Hyderabad, India**  
-**Jun 2018 - Jul 2022**
-
-- Automated infrastructure provisioning and configuration workflows using Terraform, CloudFormation, ARM Templates, Bash, Python, and YAML.
-- Built CI/CD pipelines for build, test, artifact publishing, deployment, rollback, and environment promotion.
-- Supported AWS services including EC2, S3, RDS, ECS, EKS, IAM, VPC networking, and CloudWatch.
-- Deployed and troubleshot Docker and Kubernetes workloads across development and production-like environments.
-- Developed reusable infrastructure patterns and pipeline templates to improve consistency across projects.
-- Integrated Maven, Jenkins, GitLab CI/CD, JFrog Artifactory, and Git-based release workflows.
-- Improved monitoring and alerting coverage using logs, metrics, dashboards, and operational checks.
-- Supported Linux and Windows Server environments through scripting, service troubleshooting, and maintenance.
-- Participated in production support, incident response, RCA discussions, and remediation planning.
-- Coordinated with application, QA, infrastructure, and release teams to resolve blockers and maintain delivery timelines.
-
-### Infrastructure and Automation Engineer
-
-**ICICI Bank, Bangalore, India**  
-**Mar 2016 - May 2018**
-
-- Supported enterprise infrastructure operations across Linux, Windows Server, application hosting, deployment support, and production maintenance.
-- Automated recurring administration tasks using Bash, shell scripting, YAML-based configuration, and operational runbooks.
-- Assisted with environment provisioning, access coordination, server readiness checks, deployment preparation, and post-deployment validation.
-- Monitored application and infrastructure health using logs, alerts, dashboards, and service checks.
-- Participated in incident response by gathering diagnostics, validating service status, documenting findings, and supporting remediation.
-- Managed incidents, requests, changes, and operational follow-up through ServiceNow, JIRA, and internal processes.
-- Collaborated with application, database, network, and security teams to support business-critical systems.
-- Maintained operational documentation, support procedures, and knowledge articles to improve handoffs and troubleshooting.
+- Cloud infrastructure automation with Terraform, Kubernetes, and AWS.
+- CI/CD engineering for repeatable builds, deployments, promotions, and rollback-ready releases.
+- Platform enablement through reusable modules, templates, runbooks, and self-service workflows.
+- Reliability engineering with practical monitoring, dashboards, alerts, troubleshooting, and RCA habits.
+- Secure infrastructure operations with RBAC, secret management, and least-privilege access patterns.
 
 ## Education and Certification
 
@@ -132,19 +90,6 @@ M.S., Computer Science
 Bachelor of Technology
 
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pavanparuchuri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Pavan's GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanparuchuri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" width="49%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=pavanparuchuri&theme=github-dark-blue&hide_border=true" alt="GitHub streak" width="70%" />
-
-</div>
 
 ## Current Focus
 
